@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Anastacia
 - 👀 I’m interested in Backend/Fullstack Python development.
-- ⭐ Languages and Technologies - React, Django, Django REST framework, Python, JavaScript, Html, CSS, Heroku, Postman, Docker.
-- 🌱 I’m currently learning advanced Python in Udemy course and starting to learn Flask. 
+- ⭐ Languages and Technologies - React, Django, Django REST framework, Flask, Pandas, GCP, PostgreSQL, Python, JavaScript, Html, CSS, Heroku, Postman, Docker. 
 - 📫 You can find me on my linkedin: https://www.linkedin.com/in/anastaciashapkin/  
       or massage me on my Email: AnastaciaShapkin@gmail.com
 
