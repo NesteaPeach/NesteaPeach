@@ -1,31 +1,24 @@
-# 👋 Hey there, I'm Anastacia! 🚀
+# Hey, I'm Anastasia 👩‍💻
 
-With a year of full-stack development experience under my belt, I'm a tech enthusiast on a mission to craft digital experiences that make a difference.
+Python backend engineer building Flask microservices, wrangling data with Pandas, and occasionally yelling at cloud bills.
 
-## 🌟 What Drives My Coding Adventures
+## 🔧 Tech I use (and like):
+Python, Flask, Flask-RESTful, Flask-Smorest, Redis, Pandas, Docker, PostgreSQL, MySQL, AWS, GCP, Git, CI/CD, BeautifulSoup
 
-- 🧩 **Tech Stacks**: I'm a puzzle solver, and my favorite puzzle pieces include React, Django, Django REST framework, Flask, and more. I thrive on piecing together elegant solutions using these technologies.
+## ☁️ What I actually do:
+- Ship microservices that don’t crash (much)
+- Clean messy data like it’s my job (it is)
+- Optimize things so cloud bills hurt a little less
+- Write APIs and document them like a decent human (Swagger ftw)
+- Catch bugs with custom exceptions before they catch me
 
-- 🌐 **Web Wizardry**: I'm passionate about all things web, from designing intuitive user interfaces to crafting robust backends. JavaScript, HTML, and CSS are my trusty allies in this magical realm.
+## 🧪 Currently:
+- Making APIs faster  
+- Teaching junior devs how not to hate Flask  
+- Scraping stuff (legally)
 
-- 📊 **Data Sorcery**: Numbers speak to me, and I love harnessing the power of data. Tools like Pandas and PostgreSQL are my go-to for taming data and making it work its magic.
+## 📬 Find me elsewhere:
+[LinkedIn](https://www.linkedin.com/)
 
-- ☁️ **Cloud Conqueror**: I'm no stranger to the cloud, and I've conquered Google Cloud Platform (GCP) to deploy my creations efficiently.
+Poke around the pinned repos — code speaks louder than buzzwords.
 
-- 🐍 **Python Enthusiast**: Python is my spirit animal in the world of programming. It's my go-to language for building scalable and maintainable solutions.
-
-- 🚀 **Deployment Dynamo**: I ensure my projects reach the world, thanks to platforms like Heroku and the magic of Docker.
-
-- 📬 **API Aficionado**: Postman is my trusty sidekick when it comes to testing and documenting APIs.
-
-## 👩‍💻 Let's Connect!
-
-If you're as passionate about code as I am, let's connect! Feel free to explore my projects and drop me a message if you'd like to collaborate or chat tech.
-
-🚧 My journey in the coding cosmos has just begun, and there's always a new adventure on the horizon!
-
-
-<!---
-NesteaPeach/NesteaPeach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
